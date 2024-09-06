@@ -55,7 +55,22 @@ https://dcnvhcqfz383.feishu.cn/wiki/space/7411369628238381084?ccm_open_type=lark
 > ##### 行动不止于心动，学习从现在开始！
 > 
 
-![image.png](./趣浪出海.jpg)
+
+  <div>
+        <div>
+            <img src="./趣浪出海.jpg" alt="Image" width="300">
+        </div>
+        <div style="text-align: center; width: 300px;display: block;">
+            ⬆️<font color="blue" style="text-align: center;"> 趣浪出海</font>
+            <font color="red">公众号 </font>⬆️
+        </div>
+    </div>
+
+
+
+
+<div style=" height: 30px;display: block;">
+</div>
 
 ![image.png](./趣浪阿文.png)
 
